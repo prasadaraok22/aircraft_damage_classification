@@ -1,0 +1,11 @@
+# Standard PyPI Packages
+pandas==2.2.3
+tensorflow==2.17.1
+pillow==11.1.0
+matplotlib==3.9.2
+transformers==4.38.2
+
+# PyTorch for macOS (Standard PyPI)
+torch==2.2.0
+torchvision==0.17.0
+torchaudio==2.2.0
